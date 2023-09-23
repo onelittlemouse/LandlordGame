@@ -1,0 +1,24 @@
+﻿  Game.cpp
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Game.cpp(34,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Game.cpp(42,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Player.cpp
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(47,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(60,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(119,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(209,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(291,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(298,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(323,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(466,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(579,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(675,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(771,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(867,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(963,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(671): warning C4715: “Player::isAeroplane1”: 不是所有的控件路径都返回值
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(767): warning C4715: “Player::isAeroplane2”: 不是所有的控件路径都返回值
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(863): warning C4715: “Player::isMultithree”: 不是所有的控件路径都返回值
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(959): warning C4715: “Player::isMultiTwo”: 不是所有的控件路径都返回值
+E:\C++\Microsoft Visual Studio\C++斗地主\斗地主\Player.cpp(1055): warning C4715: “Player::isMultiOne”: 不是所有的控件路径都返回值
+  斗地主.vcxproj -> E:\C++\Microsoft Visual Studio\C++斗地主\x64\Debug\斗地主.exe
